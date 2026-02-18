@@ -1,0 +1,7 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_words": 300,
+  "overlap_words": 50,
+  "num_chunks": 122,
+  "embedding_dim": 384
+}
