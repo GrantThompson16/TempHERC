@@ -1,0 +1,4 @@
+1. it seems direct downloads broke again, fix that
+2. find out why the last couple videos arent being downloaded (i put july 1st as cutoff but august and july vid aint being recorfded)
+3. Try to figure out if we can download multiple vids at once instead of 1 by 1
+4. clean up some command l;ine arguments (maybe some uncessesary)
